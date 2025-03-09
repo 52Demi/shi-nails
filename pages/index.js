@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <div className="container mx-auto py-10 font-sans text-gray-800">
       <div className="flex justify-center mb-6">
-        <img src="/OIP.jpg" alt="SHI Logo" className="h-16" />
+        <img src="/public/OIP.jpg" alt="SHI Logo" className="h-16" />
       </div>
       <h1 className="text-4xl font-bold text-center mb-6 tracking-wide">
         SHI - Eco-friendly Press On Nails
