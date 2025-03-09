@@ -54,8 +54,4 @@ export default function Home() {
         ))}
       </div>
       <footer className="mt-12 text-center text-gray-500 text-lg">
-        Contact us at: <a href="mailto:sheandyao@gmail.com" className="text-black underline">sheandyao@gmail.com</a>
-      </footer>
-    </div>
-  );
-}
+      
